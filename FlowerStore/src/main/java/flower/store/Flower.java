@@ -22,14 +22,6 @@ public class Flower extends Item {
         this.color = flower.color;
     }
 
-    // public void setPrice(int price2) {
-    //     this.price = price2;
-    // }
-
-    // public void setColor(FlowerColor color2) {
-    //     this.color = color2;
-    // }
-
     public String getColor() {
         return color.toString();
     }
